@@ -1,0 +1,8 @@
+{
+  "name": "Sandeep-19-08: Driving School Scheduler_remove Quick Fill Demo",
+  "description": "Simple admin module for bulk trainer setup, automatic partner matching, and automated cohort scheduling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
